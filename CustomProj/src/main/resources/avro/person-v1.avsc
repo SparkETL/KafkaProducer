@@ -1,0 +1,14 @@
+{
+   "type" : "record",
+   "namespace" : "com",
+   "name" : "Person",
+   "version" : "1",
+   "fields" : [
+      { "name" : "First_Name" , "type" : "string" },
+      { "name" : "Last_Name" , "type" : "string" },
+      { "name" : "Birth_Date" , "type" : "string" },
+      { "name" : "Email_Address" , "type" : "string" },
+      { "name" : "Address" , "type" : "string" },
+      { "name" : "City" , "type" : "string" }
+   ]
+}
